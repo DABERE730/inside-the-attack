@@ -313,20 +313,3 @@ Planned investigations include:
 
 All practical testing will be conducted in authorised environments.
 
----
-
-## 12. Final Thoughts
-
-Cybersecurity is not just about knowing the names of attacks. It is about understanding the weaknesses behind them, recognising suspicious behaviour and knowing how to respond.
-
-Every attack tells a story.
-
-The objective of this repository is to learn how to read that story from both sides: the attacker's perspective and the defender's perspective.
-
-**Understand the attack. Identify the weakness. Protect the system.**
-
----
-
-**Repository Focus:** Attack Analysis | Threat Detection | Vulnerability Assessment | Security Investigations | Defensive Security
-
-**Status:** Continuously evolving.
