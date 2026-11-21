@@ -1,11 +1,6 @@
 # inside-the-attack
 Exploring real-world cyberattacks, attacker techniques, exploited vulnerabilities, threat detection, and defensive security through research and practical investigations.
 
-
-# Inside the Attack
-
-### Understanding how cyberattacks happen, why they succeed, and how defenders can stop them.
-
 Cyberattacks rarely happen without a reason. Behind every successful attack, there is usually an exploited weakness, a security gap, human error or an overlooked vulnerability.
 
 This repository explores the techniques, behaviours and weaknesses behind common cyberattacks. It focuses on understanding the attacker's perspective while developing the analytical skills needed to identify, investigate and prevent malicious activities.
